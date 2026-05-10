@@ -10,8 +10,8 @@ Points utiles extraits du planning :
 
 - Voyage Japon : du 4 au 27 juillet 2026
 - Pas de location de voiture prevue
-- Tokyo au debut : du 4 au 8 juillet 2026
-- Tokyo a la fin : du 24 au 27 juillet 2026
+- Tokyo au debut : du 4 au 11 juillet 2026
+- Tokyo a la fin : du 25 au 27 juillet 2026
 
 Jours qui comptent pour un rasso a Tokyo :
 
@@ -19,15 +19,15 @@ Jours qui comptent pour un rasso a Tokyo :
 - dimanche 5 juillet 2026 : Tokyo Est
 - lundi 6 juillet 2026 : Tokyo moderne
 - mardi 7 juillet 2026 : journee flexible
-- vendredi 24 juillet 2026 : retour Hiroshima -> Tokyo, soiree plutot calme
-- samedi 25 juillet 2026 : journee flexible a Tokyo
+- vendredi 10 juillet 2026 : Tokyo ou excursion Kamakura/Yokohama
+- samedi 25 juillet 2026 : retour Hiroshima -> Tokyo, soiree plutot calme
 - dimanche 26 juillet 2026 : derniers achats / valises
 - lundi 27 juillet 2026 : depart Haneda a 11h45
 
 Conclusion rapide :
 
 - le meilleur slot "equilibre" pour un plan du soir = mardi 7 juillet 2026
-- le meilleur slot "ambiance max" = samedi 25 juillet 2026
+- le meilleur slot "ambiance max" = vendredi 10 juillet 2026 si Yokohama/Daikoku devient l'option choisie
 
 ## 2. Le point cle : Daikoku, c'est mythique mais pas simple
 
@@ -152,17 +152,17 @@ Format recommande :
 - retour vers 22h00-22h30
 - itineraire type : A PIT / Tokyo night drive / Rainbow Bridge / Daikoku si ouvert / retour
 
-### Meilleur choix pour l'ambiance : samedi 25 juillet 2026
+### Meilleur choix pour l'ambiance : vendredi 10 juillet 2026
 
 Pourquoi c'est le choix "vibe max" :
 
-- samedi soir a Tokyo = plus de chances d'avoir du monde
-- meilleure ambiance visuelle et photo
-- meilleur potentiel "experience JDM"
+- derniere soiree du premier bloc Tokyo
+- possible de le lier a Yokohama / Daikoku si ce jour devient l'excursion choisie
+- meilleur potentiel "experience JDM" sans attendre le retour final
 
 Mais il faut etre honnete :
 
-- c'est aussi le slot avec le plus gros risque de saturation ou fermeture
+- vendredi soir peut aussi avoir un risque de saturation ou fermeture
 - il faut partir plus tot que ce qu'on imagine
 - il faut un plan B assume
 
@@ -172,10 +172,10 @@ Format recommande :
 - viser Daikoku avant la grosse heure de pointe
 - retour vers 21h30-22h00
 
-### Option acceptable mais moins ideale : vendredi 24 juillet 2026
+### Option acceptable mais moins ideale : samedi 25 juillet 2026
 
 - faisable techniquement
-- mais tu reviens de Hiroshima
+- mais tu reviens de Hiroshima le jour meme
 - donc niveau energie, c'est pas le plus malin
 
 ### Option soft : dimanche 26 juillet 2026
@@ -303,7 +303,7 @@ Points forts :
 
 Point faible :
 
-- tu seras a Kyoto a ce moment-la
+- tu seras a Fuji / Kawaguchiko a ce moment-la
 
 ### A PIT ABARTH Night Meeting - mercredi 15 juillet 2026
 
@@ -336,7 +336,7 @@ Pourquoi :
 
 ### Reco "experience max"
 
-**Garder le samedi 25 juillet 2026 comme slot premium**, mais seulement si :
+**Garder le vendredi 10 juillet 2026 comme slot premium**, mais seulement si :
 
 - l'operateur est clean
 - tu acceptes qu'il y ait plus de monde
@@ -370,7 +370,7 @@ La version intelligente, c'est :
 Mon classement final pour ton voyage :
 
 1. **Mardi 7 juillet 2026 au soir** : meilleur compromis
-2. **Samedi 25 juillet 2026 au soir** : meilleure ambiance potentielle
+2. **Vendredi 10 juillet 2026 au soir** : meilleure ambiance potentielle si option Yokohama/Daikoku
 3. **A PIT / UDX en backup** : meilleure roue de secours
 
 ## 11. Sources

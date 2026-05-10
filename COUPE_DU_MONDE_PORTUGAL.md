@@ -36,10 +36,10 @@ Les heures ci-dessous sont en heure Japon (JST), sauf mention contraire.
 | Tour | Date / heure JST | Lieu du voyage | Impact |
 |---|---:|---|---|
 | 1/16e | Sam. 04 juillet, 10:30 | Pendant le vol CDG -> HND | Très fragile, dépend du Wi-Fi avion |
-| 1/8e | Mer. 08 juillet, 05:00 | Tokyo / jour départ Fuji | Peut fatiguer avant Kawaguchiko |
-| Quart | Dim. 12 juillet, 10:00 | Kyoto | Compatible, journée Kyoto à alléger |
+| 1/8e | Mer. 08 juillet, 05:00 | Tokyo | Compatible, journée Tokyo à alléger |
+| Quart | Dim. 12 juillet, 10:00 | Fuji / Kawaguchiko | Compatible, garder la journée Fuji tranquille |
 | Demi | Jeu. 16 juillet, 04:00 | Kyoto | Gros impact sommeil + Yoiyama |
-| Petite finale | Dim. 19 juillet, 06:00 | Osaka | Himeji à démarrer plus tard si besoin |
+| Petite finale | Dim. 19 juillet, 06:00 | Osaka | Compatible, journée Osaka à démarrer plus tard si besoin |
 | Finale | Lun. 20 juillet, 04:00 | Osaka | Très bon souvenir potentiel, journée chill prévue |
 
 ### Si le Portugal termine 2e du groupe K
@@ -48,9 +48,9 @@ Les heures ci-dessous sont en heure Japon (JST), sauf mention contraire.
 |---|---:|---|---|
 | 1/16e | Ven. 03 juillet, 01:00 CEST | Suisse, avant départ | Ne touche pas le voyage Japon |
 | 1/8e | Mar. 07 juillet, 04:00 JST | Tokyo | Journée Tokyo flexible prévue |
-| Quart | Sam. 11 juillet, 04:00 JST | Sendai avant Kyoto | Regarder hôtel puis train vers Kyoto |
+| Quart | Sam. 11 juillet, 04:00 JST | Tokyo avant départ Fuji | Regarder hôtel puis départ Kawaguchiko plus tard si besoin |
 | Demi | Mer. 15 juillet, 04:00 JST | Kyoto | Journée Fushimi/Yoiyama à alléger |
-| Petite finale | Dim. 19 juillet, 06:00 JST | Osaka | Himeji à démarrer plus tard si besoin |
+| Petite finale | Dim. 19 juillet, 06:00 JST | Osaka | Journée Osaka à démarrer plus tard si besoin |
 | Finale | Lun. 20 juillet, 04:00 JST | Osaka | Journée chill prévue |
 
 ### Si le Portugal termine 3e et se qualifie
@@ -59,9 +59,9 @@ Les heures ci-dessous sont en heure Japon (JST), sauf mention contraire.
 |---|---:|---|---|
 | 1/16e | Mer. 01 juillet 18:00 CEST ou Jeu. 02 juillet 01:00 JST | Suisse, avant départ | Ne touche pas le voyage Japon |
 | 1/8e | Lun. 06 juillet, 09:00 JST | Tokyo | Compatible avec Tokyo moderne si départ plus tard |
-| Quart | Dim. 12 juillet, 06:00 JST | Kyoto | Compatible mais journée Kyoto allégée |
+| Quart | Dim. 12 juillet, 06:00 JST | Fuji / Kawaguchiko | Compatible mais matin Fuji à adapter |
 | Demi | Jeu. 16 juillet, 04:00 JST | Kyoto | Gros impact sommeil + Yoiyama |
-| Petite finale | Dim. 19 juillet, 06:00 JST | Osaka | Himeji à démarrer plus tard si besoin |
+| Petite finale | Dim. 19 juillet, 06:00 JST | Osaka | Journée Osaka à démarrer plus tard si besoin |
 | Finale | Lun. 20 juillet, 04:00 JST | Osaka | Journée chill prévue |
 
 ## Stratégie sommeil
@@ -140,4 +140,3 @@ Japonais :
 | Vérifier bars ouverts pour les matchs pertinents | À faire |
 | Réserver si possible pour quart/demi/finale | À faire |
 | Ajuster les journées impactées dans `ITINERAIRE.md` si Kev valide | À faire |
-

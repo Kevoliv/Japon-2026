@@ -1,304 +1,310 @@
-# Itinéraire
+# Itineraire
+
+Ce fichier detaille le programme actif. La source globale reste `Programme.txt`.
 
 ## Vue globale
 
 | Dates | Base | Nuits | Logique |
 |---|---:|---:|---|
-| 04-08 juillet | Tokyo | 4 | Arrivée, acclimatation, premiers grands quartiers |
-| 08-09 juillet | Kawaguchiko / Fuji | 1 | Nuit sur place pour voir Fuji tôt le matin |
-| 09-11 juillet | Sendai | 2 | Base pour Tashirojima |
-| 11-18 juillet | Kyoto | 7 | Gion Matsuri, temples, Nara, rythme adapté à la chaleur |
-| 18-22 juillet | Osaka | 4 | USJ/Nintendo, nourriture, ville vivante |
-| 22-24 juillet | Hiroshima | 2 | Hiroshima + Miyajima |
-| 24-27 juillet | Tokyo | 3 | Backup Fuji, achats, départ Haneda |
+| 04-11 juillet | Tokyo | 7 | Arrivee, acclimatation, grands quartiers, marge et option Kamakura/Yokohama |
+| 11-13 juillet | Kawaguchiko / Fuji | 2 | Deux matins potentiels pour voir Fuji, rythme plus calme |
+| 13-18 juillet | Kyoto | 5 | Temples, Gion Matsuri, yukata, Yoiyama et Saki-matsuri |
+| 18-23 juillet | Osaka | 5 | Nara en transition, Osaka, USJ/Nintendo, food |
+| 23-25 juillet | Hiroshima | 2 | Hiroshima + Miyajima |
+| 25-27 juillet | Tokyo | 2 | Retour final, shopping, depart Haneda |
 
 ## Planning jour par jour
 
 ### Ven. 03 juillet - Vol
 
-Confirmé :
+Confirme :
 - Zurich -> Paris -> Tokyo Haneda.
 - Nuit en avion.
 
-À confirmer :
-- Stratégie sommeil dans l'avion.
-- Vérifier Wi-Fi / Starlink Air France avant départ.
+A confirmer :
+- Strategie sommeil dans l'avion.
+- Verifier Wi-Fi / Starlink Air France avant depart.
 
-### Sam. 04 juillet - Arrivée Tokyo
+### Sam. 04 juillet - Arrivee Tokyo
 
-Confirmé :
-- Arrivée Haneda à 19:40.
-- Check-in hôtel Tokyo.
-- Dîner simple, coucher sans grosse sortie.
+Confirme :
+- Arrivee Haneda a 19:40.
+- Check-in hotel Tokyo.
+- Diner simple, coucher sans grosse sortie.
 
-À confirmer :
-- Hôtel Tokyo début.
-- Transport Haneda -> hôtel.
+A confirmer :
+- Hotel Tokyo debut.
+- Transport Haneda -> hotel.
 
-### Dim. 05 juillet - Tokyo Est
+### Dim. 05 juillet - Tokyo
 
-Confirmé :
-- Asakusa.
+Confirme :
+- Tokyo, rythme facile apres l'arrivee.
+
+Idees compatibles :
+- Asakusa / Senso-ji.
 - Ueno.
 - Akihabara.
 
-Pourquoi :
-- Journée facile après arrivée.
-- Mélange traditionnel, parc/musées, puis quartier indoor si chaleur ou pluie.
+### Lun. 06 juillet - Tokyo
 
-### Lun. 06 juillet - Tokyo moderne
+Confirme :
+- Tokyo.
 
-Confirmé :
+Idees compatibles :
 - Shibuya.
-- Meiji-jingu / Harajuku.
-- Omotesando.
+- Harajuku / Meiji-jingu.
 - Shinjuku le soir.
 
-Pourquoi :
-- Enchaînement géographique logique.
-- Gros Tokyo moderne et vivant sans trop de transports inutiles.
+### Mar. 07 juillet - Tokyo
 
-### Mar. 07 juillet - Tokyo flexible
+Confirme :
+- Journee Tokyo flexible.
 
-Confirmé :
-- Journée tampon à Tokyo.
-
-À confirmer :
+Idees compatibles :
 - Ghibli Museum Mitaka si billets.
-- Kichijoji / Tokyo Ouest.
-- Repos si jetlag ou match Portugal tôt.
+- Tokyo Ouest / Kichijoji.
+- Repos si jetlag ou match Portugal tot.
+- Option rasso auto le soir si plan cadre et retour clair.
 
-### Mer. 08 juillet - Tokyo -> Kawaguchiko
+### Mer. 08 juillet - Tokyo
 
-Confirmé :
+Confirme :
+- Tokyo.
+
+Idees compatibles :
+- Ginza / Tokyo Station / centre.
+- Palais imperial si ouvert.
+- Art Aquarium Ginza.
+- Shiodome / horloge de Miyazaki.
+
+### Jeu. 09 juillet - Tokyo
+
+Confirme :
+- Tokyo.
+
+Idees compatibles :
+- Odaiba / Toyosu.
+- teamLab Planets.
+- DiverCity / Gundam.
+- Parc de Tokyo Rinkai pour la prevention des catastrophes.
+
+### Ven. 10 juillet - Tokyo ou excursion Kamakura/Yokohama
+
+Confirme :
+- Derniere nuit du premier bloc Tokyo.
+- Excursion possible Kamakura ou Yokohama.
+
+A trancher :
+- Kamakura pour temples, balade et nagashi somen.
+- Yokohama pour ramen museum, baie, Daikoku via tour/chauffeur si envie auto.
+- Rester a Tokyo si fatigue ou grosse chaleur.
+
+### Sam. 11 juillet - Tokyo -> Fuji / Kawaguchiko
+
+Confirme :
 - Envoyer les grosses valises Tokyo -> Kyoto.
-- Départ vers Kawaguchiko avec sac léger.
-- Check-in hôtel Fuji.
-- Lac, onsen, dîner calme.
+- Depart vers Kawaguchiko avec sac leger.
+- Check-in hotel Fuji.
+- Lac, onsen, diner calme.
 
 Pourquoi :
-- Préparer l'observation Fuji du lendemain matin.
-- Ne pas traîner les valises sur l'étape Fuji + Sendai.
+- Le programme garde deux nuits Fuji, donc moins de pression si la meteo est moyenne le premier matin.
 
-À confirmer :
-- Hôtel Kawaguchiko annulable.
+A confirmer :
+- Hotel Kawaguchiko annulable, idealement vue Fuji / onsen.
 - Transport Tokyo -> Kawaguchiko.
 
-### Jeu. 09 juillet - Fuji matin -> Sendai
+### Dim. 12 juillet - Fuji / Kawaguchiko
 
-Confirmé :
-- Réveil très tôt, idéalement 04:45-05:30.
-- Observation Fuji depuis hôtel / Oishi Park / Chureito Pagoda selon localisation.
-- Kawaguchiko -> Tokyo/Shinjuku -> Sendai.
-- Soirée simple à Sendai.
+Confirme :
+- Journee Fuji / Kawaguchiko.
+- Reveil tot pour tenter la vue Fuji.
+- Rythme calme.
 
-Pourquoi :
-- Meilleure chance Fuji avant 08:00-09:00.
-- Journée logistique, ne rien ajouter d'ambitieux à Sendai.
+Idees compatibles :
+- Oishi Park.
+- Chureito Pagoda selon chaleur et energie.
+- Lac Kawaguchi.
+- Onsen / ryokan.
 
-À confirmer :
-- Meilleur trajet Kawaguchiko -> Tokyo -> Sendai.
-- Horaires selon train/bus disponibles.
+### Lun. 13 juillet - Fuji matin -> Kyoto
 
-### Ven. 10 juillet - Tashirojima
-
-Confirmé :
-- Excursion Tashirojima depuis Sendai via Ishinomaki.
-- Objectif : île des chats l'après-midi.
-
-Pourquoi :
-- L'île est un détour réel, Sendai rend ça faisable proprement.
-
-À confirmer :
-- Horaires ferry 2026.
-- Météo maritime.
-- Plan B si ferry annulé : Matsushima + Sendai.
-
-### Sam. 11 juillet - Sendai -> Kyoto
-
-Confirmé :
-- Train Sendai -> Kyoto.
+Confirme :
+- Derniere tentative Fuji tot le matin si utile.
+- Transfert Fuji -> Kyoto.
 - Check-in Kyoto.
-- Soirée Nishiki / Kawaramachi simple.
+- Soiree simple Nishiki / Kawaramachi si energie.
 
-Pourquoi :
-- Long transfert, donc soirée légère.
+A confirmer :
+- Meilleur trajet Kawaguchiko -> Kyoto, via Mishima ou retour Tokyo selon horaires/prix.
 
-### Dim. 12 juillet - Kyoto Est
+### Mar. 14 juillet - Kyoto
 
-Confirmé :
+Confirme :
+- Kyoto.
+
+Idees compatibles :
 - Higashiyama.
 - Kiyomizu-dera.
 - Gion.
+- Kennin-ji / Yasaka-jinja.
 
-Pourquoi :
-- Kyoto carte postale, à faire tôt pour limiter chaleur et foule.
+### Mer. 15 juillet - Kyoto
 
-### Lun. 13 juillet - Nara
+Confirme :
+- Kyoto.
 
-Confirmé :
-- Excursion Nara depuis Kyoto.
-- Todai-ji.
-- Kasuga Taisha.
-- Naramachi si énergie.
+Idees compatibles :
+- Fushimi Inari tres tot.
+- Nishiki / Kawaramachi.
+- Ceremonie du the.
+- Repos en milieu de journee.
 
-Pourquoi :
-- Nara reste important et apporte une atmosphère différente de Kyoto.
+### Jeu. 16 juillet - Kyoto / Yoiyama Gion Matsuri
 
-### Mar. 14 juillet - Arashiyama + Yoiyama
-
-Confirmé :
-- Arashiyama tôt.
-- Tenryu-ji / rivière / bambou.
-- Yoiyama Gion Matsuri le soir.
-
-À confirmer :
-- Monkey Park seulement si chaleur supportable.
-
-### Mer. 15 juillet - Fushimi Inari + repos + Yoiyama
-
-Confirmé :
-- Fushimi Inari très tôt.
-- Repos en milieu de journée.
-- Yoiyama le soir.
-
-Pourquoi :
-- Fushimi Inari est meilleur tôt, et le repos protège la suite du festival.
-
-### Jeu. 16 juillet - Yukata + grand soir Gion Matsuri
-
-Confirmé :
-- Journée Kyoto light.
+Confirme :
+- Journee Kyoto light.
 - Location yukata pour Kev et sa copine.
-- Soirée Yoiyama / Gion Matsuri.
+- Soiree Yoiyama / Gion Matsuri.
 
 Pourquoi :
 - Meilleur moment du voyage pour porter un yukata.
-- Ambiance festival, photos, soirée mémorable.
+- Journee a garder legere pour profiter du soir malgre la chaleur.
 
-À confirmer :
+A confirmer :
 - Boutique de yukata.
-- Option retour hôtel ou retour lendemain.
+- Heure de reservation.
+- Retour hotel ou retour lendemain.
 
-### Ven. 17 juillet - Gion Matsuri principal
+### Ven. 17 juillet - Gion Matsuri Saki-matsuri
 
-Confirmé :
+Confirme :
+- Gion Matsuri Saki-matsuri.
 - Parade Yamaboko Junko le matin.
-- Pause l'après-midi.
-- Soirée Mikoshi / Shinkosai si énergie.
+- Pause l'apres-midi.
+- Soiree possible si energie.
 
 Pourquoi :
-- Journée centrale du festival, rester dormir à Kyoto est important.
+- Journee centrale du festival, rester dormir a Kyoto est important.
 
-### Sam. 18 juillet - Kyoto -> Osaka
+### Sam. 18 juillet - Nara puis Osaka
 
-Confirmé :
-- Transfert Kyoto -> Osaka.
-- Namba / Shinsaibashi / Dotonbori.
+Confirme :
+- Nara en excursion / transition.
+- Todai-ji.
+- Kasuga Taisha.
+- Naramachi ou Mochi Nakatanidou si energie.
+- Nuit a Osaka.
+
+Logistique :
+- Prevoir valises via Yamato ou consigne pour ne pas se trimballer les bagages a Nara.
+
+### Dim. 19 juillet - Osaka
+
+Confirme :
+- Osaka.
+
+Idees compatibles :
+- Namba / Shinsaibashi.
+- Dotonbori.
+- Namba Yasaka-jinja.
+- Food et soiree vivante.
+
+### Lun. 20 juillet - Osaka
+
+Confirme :
+- Osaka.
+- Journee souple.
 
 Pourquoi :
-- Changement d'ambiance après Kyoto : plus urbain, food, énergie.
+- Jour ferie japonais Marine Day.
+- Potentielle finale Portugal a 04:00.
+- Eviter USJ ce jour-la.
 
-### Dim. 19 juillet - Himeji
+### Mar. 21 juillet - Osaka / USJ
 
-Confirmé :
-- Himeji Castle.
-- Koko-en.
-- Fukusaki optionnel.
-
-Pourquoi :
-- Himeji est un château majeur.
-- Fukusaki seulement si météo/énergie OK.
-
-### Lun. 20 juillet - Osaka chill
-
-Confirmé :
-- Journée souple à Osaka.
-- Shopping, cafés, food.
-
-Pourquoi :
-- Jour férié japonais Marine Day.
-- Potentielle finale Portugal à 04:00.
-- Éviter USJ ce jour-là.
-
-### Mar. 21 juillet - USJ + Super Nintendo World
-
-Confirmé :
+Confirme :
 - Universal Studios Japan.
 - Super Nintendo World.
 - Donkey Kong Country.
 
 Pourquoi :
-- Journée parc prioritaire.
-- Express Pass recommandé pour sécuriser Nintendo/Donkey Kong et limiter la fatigue.
+- Journee parc prioritaire.
+- Express Pass recommande pour securiser Nintendo/Donkey Kong et limiter la fatigue.
 
-À confirmer :
+A confirmer :
 - Studio Pass.
-- Express Pass adapté.
+- Express Pass adapte.
 
-### Mer. 22 juillet - Osaka -> Hiroshima
+### Mer. 22 juillet - Osaka
 
-Confirmé :
+Confirme :
+- Derniere journee Osaka.
+
+Idees compatibles :
+- Chateau d'Osaka.
+- Shitenno-ji.
+- Tsutenkaku.
+- Katsuo-ji ou Hirakata Park si grosse envie et timing OK.
+
+### Jeu. 23 juillet - Osaka -> Hiroshima
+
+Confirme :
 - Transfert Osaka -> Hiroshima.
 - Peace Memorial Museum.
 - Peace Memorial Park.
 - Okonomiyaki le soir.
 
 Pourquoi :
-- Journée histoire, émotionnelle, à garder concentrée.
+- Journee histoire, emotionnelle, a garder concentree.
 
-### Jeu. 23 juillet - Miyajima
+### Ven. 24 juillet - Miyajima
 
-Confirmé :
+Confirme :
 - Miyajima.
 - Itsukushima Shrine.
 - Daisho-in.
-- Momijidani / ropeway si météo.
+- Momijidani / ropeway si meteo.
 
-À confirmer :
-- Ropeway selon chaleur, visibilité et fatigue.
-- Éviter une vraie randonnée du Mont Misen en juillet si trop chaud.
+A confirmer :
+- Ropeway selon chaleur, visibilite et fatigue.
+- Eviter une vraie randonnee du Mont Misen en juillet si trop chaud.
 
-### Ven. 24 juillet - Hiroshima -> Tokyo
+### Sam. 25 juillet - Hiroshima -> Tokyo
 
-Confirmé :
+Confirme :
 - Retour Tokyo.
-- Soirée calme.
+- Check-in Tokyo final.
+- Soiree calme ou plan leger.
 
 Pourquoi :
-- Revenir près de Haneda.
-- Garder un backup Fuji / shopping.
+- Revenir pres de Haneda.
+- Garder une vraie marge avant le depart.
 
-### Sam. 25 juillet - Backup Fuji ou Tokyo alternatif
+### Dim. 26 juillet - Tokyo final / shopping
 
-Confirmé :
-- Journée flexible.
-
-À confirmer :
-- Backup Fuji depuis Tokyo si le 09 juillet a raté.
-- Sinon Kamakura, Yokohama ou Tokyo selon envies.
-
-### Dim. 26 juillet - Tokyo final
-
-Confirmé :
+Confirme :
 - Shopping final.
 - Quartiers favoris.
 - Dernier bon resto.
 - Packing.
 
 Pourquoi :
-- Ne rien mettre de risqué avant le vol retour.
+- Ne rien mettre de risque avant le vol retour.
 
-### Lun. 27 juillet - Départ
+### Lun. 27 juillet - Depart
 
-Confirmé :
+Confirme :
 - Vol Haneda -> Paris -> Zurich.
-- Départ hôtel vers 08:15-08:30.
+- Depart hotel vers 08:15-08:30.
 - Pas de sightseeing.
 
-## Idées non intégrées par défaut
+## Idees non integrees par defaut
 
-- Ghibli Park à Aichi/Nagoya : jugé trop lourd sauf énorme priorité.
-- Ghibli Museum Mitaka : option plus légère si billets.
-- Tenjin Matsuri Osaka : non intégré, car conflit avec retour Tokyo / backup Fuji.
-
+- Sendai / Tashirojima / Fox Village Miyagi : option lourde, non integree au programme actuel.
+- Gunma : trop vague pour l'instant.
+- Ghibli Park a Aichi/Nagoya : juge trop lourd sauf enorme priorite.
+- Ghibli Museum Mitaka : option plus legere si billets.
+- Himeji : non integre au programme actuel.
+- Tenjin Matsuri Osaka : non integre, car conflit avec Hiroshima / retour Tokyo.

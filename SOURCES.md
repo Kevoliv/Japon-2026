@@ -12,12 +12,15 @@
 
 - Wanderlog partagé : https://wanderlog.com/view/niqiauyllk/voyage-à-japan/shared
 - Gion Matsuri / Yasaka Shrine : https://www.yasaka-jinja.or.jp/en/gion_fes/
-- Tashirojima / Ajishima Line : https://ajishimaline.com/pg117.html
-- Tashirojima fares / Ajishima Line : https://ajishimaline.com/about.html
-- Himeji Castle + Koko-en : https://visit-himeji.com/en/travel-info/himeji-castle-koko-en-garden-ticket-set/
 - Hiroshima Peace Memorial Museum : https://peace-tourism.com/en/spot/entry-40.html
 - Itsukushima Shrine : https://www.itsukushimajinja.jp/en/admission.html
 - Miyajima Ropeway : https://miyajima-ropeway.info/english/fares-and-hours/
+
+## Options non intégrées actuellement
+
+- Tashirojima / Ajishima Line : https://ajishimaline.com/pg117.html
+- Tashirojima fares / Ajishima Line : https://ajishimaline.com/about.html
+- Himeji Castle + Koko-en : https://visit-himeji.com/en/travel-info/himeji-castle-koko-en-garden-ticket-set/
 
 ## Fuji
 
@@ -93,4 +96,3 @@ Notes de fiabilité :
 
 Notes :
 - Les estimations utilisent ¥200 = CHF 1 pour garder une marge simple.
-

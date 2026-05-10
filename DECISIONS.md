@@ -1,36 +1,34 @@
-# Décisions validées
+# Decisions validees
 
-Ce fichier est la source de vérité. Une information n'est considérée comme validée que si elle apparaît ici.
+Ce fichier est la source de verite des decisions actives. Une information n'est consideree comme validee que si elle apparait ici.
 
-## 2026-04-22
+## 2026-05-10
 
-| Décision | Raison | Impact |
+| Decision | Raison | Impact |
 |---|---|---|
-| Créer une structure de fichiers de planification dans `/Users/kev/Documents/JaponCodex` | Centraliser le contexte pour les futures conversations Codex | Création de fichiers Markdown dédiés |
-| Ajouter un fichier dédié Coupe du monde / Portugal | Éviter de polluer l'itinéraire principal avec les scénarios de matchs | Création de `COUPE_DU_MONDE_PORTUGAL.md` |
-| Voyage du 04 au 27 juillet 2026 au Japon | Vols confirmés, arrivées/départs connus | 23 nuits à planifier |
-| Voyage en couple | Adapter hôtels, rythme, activités et budget | Chambres pour 2, expériences couple |
-| Tokyo en deux blocs | Début pour acclimatation, fin pour achats/backup/départ | Tokyo 04-08 et 24-27 juillet |
-| Ajouter 1 nuit à Kawaguchiko / Fuji le 08 -> 09 juillet | Maximiser les chances de voir Fuji tôt le matin | Remplace une nuit Tokyo, rend le 09 juillet logistique |
-| Garder Nara | Nara est importante pour le voyage | Journée Nara maintenue le 13 juillet |
-| Ne pas intégrer Ghibli Park par défaut | Trop lourd depuis Kyoto/Osaka, demande une journée dédiée | Option seulement si priorité forte plus tard |
-| Garder Ghibli Museum Mitaka comme option | Plus facile à intégrer dans Tokyo que Ghibli Park | Dépend des billets |
-| Oublier Demon Slayer | Pas souhaité et pas de parc/event 2026 confirmé utile | Aucune place réservée au planning |
-| Porter un yukata à Kyoto | Expérience traditionnelle adaptée à juillet et Gion Matsuri | Prévu le 16 juillet pendant Yoiyama |
-| Maintenir Kyoto jusqu'au 18 juillet | Profiter vraiment de Gion Matsuri, y compris le 17 | 7 nuits Kyoto |
-| USJ + Super Nintendo World + Donkey Kong le 21 juillet | Expérience prioritaire, mieux après le jour férié du 20 | Express Pass conseillé |
-| Matchs Portugal traités comme bonus | Ne pas laisser la Coupe du monde piloter le voyage | Les matchs n'annulent que rarement une priorité voyage |
-| Utiliser Yamato / takkyubin pour les valises | Éviter de se balader avec les grosses valises | Envois Tokyo -> Kyoto, Kyoto -> Osaka, Osaka -> Tokyo |
-| Budget réaliste autour de ¥1.45M-1.6M pour 2 hors vols | Programme dense avec Fuji, USJ et Gion Matsuri | Prévoir environ CHF 3'625-4'000 par personne |
+| Utiliser `Programme.txt` comme programme global a jour | Kev a ajoute le nouveau programme et l'a designe comme reference | Tous les fichiers specialises doivent rester alignes avec lui |
+| Garder Tokyo en deux blocs | Debut long pour acclimatation, quartiers, marge et option Kamakura/Yokohama ; fin courte pour shopping et depart | Tokyo 04-11 juillet puis 25-27 juillet |
+| Garder 2 nuits a Kawaguchiko / Fuji | Maximiser les chances de voir Fuji tot le matin et rendre l'etape moins rush | Fuji 11-13 juillet |
+| Retirer Sendai / Tashirojima du programme actif | Trop loin du reste pour l'itineraire actuel | Classe en option lourde non integree |
+| Garder Kyoto du 13 au 18 juillet | Profiter de Kyoto, Yoiyama et Gion Matsuri Saki-matsuri | 5 nuits Kyoto |
+| Porter un yukata a Kyoto | Experience traditionnelle adaptee a juillet et Gion Matsuri | Prevu le 16 juillet pendant Yoiyama |
+| Garder Nara le 18 juillet comme transition vers Osaka | Nara reste importante sans ajouter une nuit dediee | Prevoir bagages via Yamato ou consigne |
+| Garder Osaka du 18 au 23 juillet | Food, ville vivante, journee souple et USJ | 5 nuits Osaka |
+| Faire USJ + Super Nintendo World + Donkey Kong le 21 juillet | Experience prioritaire, mieux apres le jour ferie du 20 | Express Pass conseille |
+| Garder Hiroshima / Miyajima du 23 au 25 juillet | Bloc dedie pour histoire + Miyajima | 2 nuits Hiroshima |
+| Utiliser Yamato / takkyubin pour les valises | Eviter de se balader avec les grosses valises | Envois Tokyo -> Kyoto, Kyoto/Osaka selon besoin, Osaka/Hiroshima/Tokyo selon hotels |
+| Matchs Portugal traites comme bonus | Ne pas laisser la Coupe du monde piloter le voyage | Les matchs peuvent seulement alleger certaines journees |
+| Budget realiste a rehausser avec 2 nuits Fuji | Deux nuits Fuji et 23 nuits d'hotel font monter le total | Viser plutot ¥1.55M-1.75M pour 2 hors vols, selon hotels et achats |
 
-## Décisions à prendre
+## Decisions a prendre
 
 | Sujet | Options | Statut |
 |---|---|---|
-| Hôtels | Sélectionner shortlist et réserver | À faire |
-| Kawaguchiko | Choisir hôtel vue Fuji / onsen annulable | À faire |
-| USJ | Choisir Studio Pass + Express Pass | À faire |
-| Yukata | Choisir boutique + heure + retour | À faire |
-| Ghibli Museum | Tenter ou non les billets | À confirmer |
-| Portugal | Adapter après la phase de groupe | À confirmer après 27 juin 2026 |
-
+| Hotels | Selectionner shortlist et reserver selon les nouvelles dates | A faire |
+| Kawaguchiko | Choisir hotel vue Fuji / onsen annulable pour 2 nuits | A faire |
+| 10 juillet | Tokyo calme, Kamakura ou Yokohama | A trancher |
+| Nara le 18 juillet | Yamato, consigne Kyoto, consigne Nara ou depot Osaka | A trancher |
+| USJ | Choisir Studio Pass + Express Pass | A faire |
+| Yukata | Choisir boutique + heure + retour | A faire |
+| Ghibli Museum | Tenter ou non les billets | A confirmer |
+| Portugal | Adapter apres la phase de groupe | A confirmer apres 27 juin 2026 |

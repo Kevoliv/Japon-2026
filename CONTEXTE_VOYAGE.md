@@ -27,21 +27,24 @@
 
 - Tokyo
 - Kawaguchiko / région Mont Fuji
-- Sendai
 - Kyoto
 - Osaka
 - Hiroshima
 - Miyajima en excursion
 - Nara en excursion
-- Tashirojima en excursion depuis Sendai
+- Kamakura ou Yokohama en excursion possible depuis Tokyo
+
+## Options lourdes non intégrées
+
+- Miyagi / Sendai / Tashirojima : garde en idée lointaine, mais pas dans le programme actif.
+- Gunma : trop vague pour l'instant.
 
 ## Préférences
 
 - Voyage en couple, équilibré entre lieux iconiques, ambiance locale, culture, nourriture, quartiers vivants et moments plus chill.
-- Garder Tokyo en deux blocs : début pour acclimatation et grands quartiers, fin pour achats, marge météo et départ Haneda.
-- Voir le Mont Fuji si possible, avec une vraie nuit sur place à Kawaguchiko pour maximiser les chances tôt le matin.
+- Garder Tokyo en deux blocs : long début pour acclimatation, grands quartiers et option Kamakura/Yokohama ; fin courte pour shopping, marge et départ Haneda.
+- Voir le Mont Fuji si possible, avec deux nuits à Kawaguchiko pour maximiser les chances tôt le matin.
 - Garder Nara comme journée importante.
-- Aller sur l'île des chats Tashirojima, idéalement une après-midi seulement.
 - Profiter de Gion Matsuri à Kyoto, surtout les soirées Yoiyama et la parade du 17 juillet.
 - Porter un yukata à Kyoto pendant Gion Matsuri.
 - Faire USJ avec Super Nintendo World et Donkey Kong Country.
@@ -51,18 +54,18 @@
 
 - Juillet au Japon : chaud, humide, météo parfois instable.
 - Fuji en juillet : visibilité incertaine, meilleure chance très tôt le matin.
-- Tashirojima dépend du ferry et de la météo maritime.
 - Kyoto pendant Gion Matsuri : hébergements plus chers, foule, besoin d'un hôtel bien placé.
 - USJ en juillet : chaleur, files, Express Pass recommandé.
 - Valises : éviter de les traîner, utiliser Yamato / takkyubin entre grandes bases.
+- Nara le 18 juillet sert de transition entre Kyoto et Osaka : logistique bagages à prévoir.
 
 ## Infos à confirmer
 
 - Hôtels exacts et prix.
-- Date et hôtel précis pour Kawaguchiko.
+- Hôtel précis pour les deux nuits à Kawaguchiko.
+- Choix Kamakura ou Yokohama pour le 10 juillet, ou journée Tokyo plus calme.
 - Billets USJ + Express Pass.
 - Location yukata : boutique, heure, retour hôtel ou retour lendemain.
 - Tickets éventuels Ghibli Museum Mitaka.
 - Portugal : chemin réel après la phase de groupe, connu après le 27 juin 2026.
 - Réservations restaurants spécifiques.
-

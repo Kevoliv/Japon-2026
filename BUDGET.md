@@ -1,135 +1,133 @@
 # Budget
 
-Taux utilisé pour les estimations :
+Taux utilise pour les estimations :
 
 - Taux prudent : ¥200 = CHF 1.
-- Le taux réel peut bouger. Garder une marge.
+- Le taux reel peut bouger. Garder une marge.
 
-Les vols internationaux sont déjà payés et exclus de ce budget.
+Les vols internationaux sont deja payes et exclus de ce budget.
 
 ## Vue globale
 
 | Niveau | Pour 2 personnes | Par personne | Lecture |
 |---|---:|---:|---|
-| Serré | ¥1'250'000 | CHF 3'125 | Hôtels maîtrisés, shopping bas, USJ optimisé |
-| Réaliste avec Fuji | ¥1'450'000-1'600'000 | CHF 3'625-4'000 | Recommandé |
-| Confort + achats | ¥1'750'000+ | CHF 4'375+ | Hôtels plus chers, shopping, restos |
+| Serre | ¥1'350'000-1'500'000 | CHF 3'375-3'750 | Hotels tres maitrises, shopping bas, USJ optimise |
+| Realiste avec 2 nuits Fuji | ¥1'550'000-1'750'000 | CHF 3'875-4'375 | Recommande pour le programme actuel |
+| Confort + achats | ¥1'900'000+ | CHF 4'750+ | Hotels plus chers, shopping, restos, marge large |
 
-Budget conseillé à avoir prêt :
+Budget conseille a avoir pret :
 
-- Voyage réel : environ ¥1'450'000-1'600'000 pour 2.
-- Tampon séparé : ¥200'000 pour 2.
-- Total confort mental : jusqu'à ¥1'700'000-1'800'000 pour 2.
+- Voyage reel : environ ¥1'550'000-1'750'000 pour 2.
+- Tampon separe : ¥200'000 pour 2.
+- Total confort mental : jusqu'a ¥1'800'000-1'950'000 pour 2.
 
-## Détail par catégorie
+## Detail par categorie
 
-| Catégorie | Estimation couple | CHF couple | Volatilité |
+| Categorie | Estimation couple | CHF couple | Volatilite |
 |---|---:|---:|---|
-| Hôtels | ¥580'000-700'000 | CHF 2'900-3'500 | Très haute |
-| Transports | ¥250'000-310'000 | CHF 1'250-1'550 | Moyenne |
-| Repas / cafés | ¥320'000-450'000 | CHF 1'600-2'250 | Moyenne / haute |
-| Activités | ¥130'000-200'000 | CHF 650-1'000 | Moyenne |
-| Valises Yamato | ¥16'000-22'000 | CHF 80-110 | Faible |
+| Hotels | ¥680'000-820'000 | CHF 3'400-4'100 | Tres haute |
+| Transports | ¥210'000-280'000 | CHF 1'050-1'400 | Moyenne |
+| Repas / cafes | ¥320'000-450'000 | CHF 1'600-2'250 | Moyenne / haute |
+| Activites | ¥120'000-210'000 | CHF 600-1'050 | Moyenne |
+| Valises Yamato | ¥14'000-22'000 | CHF 70-110 | Faible |
 | eSIM / internet | ¥8'000-16'000 | CHF 40-80 | Faible |
-| Shopping / souvenirs | ¥100'000-250'000 | CHF 500-1'250 | Très haute |
+| Shopping / souvenirs | ¥100'000-250'000 | CHF 500-1'250 | Tres haute |
 
-## Hôtels
+## Hotels
 
 Objectif :
 
-- Moyenne idéale : ¥25'000-28'000 / nuit pour 2.
-- Total cible : ¥580'000-650'000.
-- Maximum acceptable : environ ¥700'000 si les hôtels sont bien placés.
+- Total cible : ¥680'000-740'000.
+- Zone haute acceptable : ¥740'000-820'000 si les emplacements sont vraiment bons.
+- Maximum a surveiller : au-dela de ¥820'000, il faudra compenser ailleurs.
 
-Point de vigilance :
+Points de vigilance :
 
+- Deux nuits Kawaguchiko / Fuji peuvent vite faire monter la note.
 - Kyoto pendant Gion Matsuri.
-- Kawaguchiko si hôtel vue Fuji / onsen.
-- Tokyo fin si quartier très central.
+- Tokyo debut avec 7 nuits : petit ecart par nuit = gros impact total.
+- Tokyo fin si quartier tres central.
 
 ## Transports
 
 Inclus dans l'estimation :
 
-- Shinkansen / trains longue distance :
-  - Tokyo -> Sendai
-  - Sendai -> Kyoto
-  - Osaka/Kyoto -> Hiroshima
-  - Hiroshima -> Tokyo
-- Fuji :
-  - Tokyo -> Kawaguchiko
-  - Kawaguchiko -> Tokyo
+- Longue distance :
+  - Tokyo -> Kawaguchiko.
+  - Kawaguchiko -> Kyoto, via Mishima ou retour Tokyo selon le meilleur trajet.
+  - Kyoto/Nara -> Osaka.
+  - Osaka -> Hiroshima.
+  - Hiroshima -> Tokyo.
 - Transports locaux :
-  - Tokyo, Kyoto, Osaka, Hiroshima, Sendai.
+  - Tokyo, Kyoto, Osaka, Hiroshima, Kawaguchiko.
 - Excursions :
-  - Nara
-  - Himeji
-  - Miyajima
-  - Ishinomaki / Tashirojima
+  - Nara.
+  - Miyajima.
+  - Kamakura ou Yokohama si choisi le 10 juillet.
 
-À optimiser :
+A optimiser :
 
-- Vérifier l'intérêt du JR West Kansai-Hiroshima Area Pass pour la séquence Osaka/Himeji/Hiroshima/Miyajima.
+- Verifier l'interet du JR West Kansai-Hiroshima Area Pass pour Osaka/Hiroshima/Miyajima uniquement.
 - Le JR Pass national n'est probablement pas rentable.
+- Comparer Fuji via bus direct, Fuji Excursion, ou bus Kawaguchiko -> Mishima + shinkansen vers Kyoto.
 
 ## Repas
 
-Hypothèse réaliste :
+Hypothese realiste :
 
-- Petit-déj/café : ¥1'000-2'000 par personne.
-- Déjeuner : ¥1'200-2'500 par personne.
-- Dîner : ¥2'500-6'000 par personne.
+- Petit-dej/cafe : ¥1'000-2'000 par personne.
+- Dejeuner : ¥1'200-2'500 par personne.
+- Diner : ¥2'500-6'000 par personne.
 - Quelques repas plus quali inclus, mais pas du luxe tous les soirs.
 
-Budget conseillé :
+Budget conseille :
 
 - Couple : ¥320'000-450'000.
 
-## Activités
+## Activites
 
 Inclus :
 
 - USJ + Super Nintendo World + Express Pass.
 - Yukata Kyoto.
-- Temples / sanctuaires / musées.
-- Himeji + Koko-en.
+- Temples / sanctuaires / musees.
 - Miyajima ropeway possible.
 - Hiroshima Peace Memorial Museum.
-- Tashirojima ferry.
+- Experiences Tokyo / cafes thematiques selon reservations.
 
-Point majeur :
+Points majeurs :
 
-- USJ peut coûter très cher selon Express Pass.
-- Prévoir environ ¥70'000-100'000 pour deux si Express Pass avec Nintendo/Donkey Kong.
+- USJ peut couter tres cher selon Express Pass.
+- Prevoir environ ¥70'000-100'000 pour deux si Express Pass avec Nintendo/Donkey Kong.
+- Les cafes thematiques et experiences reservees peuvent vite ajouter du budget.
 
 ## Fuji
 
-Budget spécifique :
+Budget specifique pour 2 nuits :
 
 | Poste | Couple |
 |---|---:|
-| Hôtel Kawaguchiko | ¥55'000-75'000 |
-| Transport Tokyo <-> Kawaguchiko | ¥10'000-18'000 |
-| Transports locaux / taxis | ¥3'000-8'000 |
-| Repas / cafés | ¥6'000-12'000 |
-| Total Fuji réaliste | ¥75'000-110'000 |
+| Hotel Kawaguchiko | ¥110'000-150'000 |
+| Transport Tokyo -> Kawaguchiko -> Kyoto | ¥20'000-40'000 |
+| Transports locaux / taxis | ¥5'000-12'000 |
+| Repas / cafes | ¥12'000-24'000 |
+| Total Fuji realiste | ¥150'000-225'000 |
 
-Note :
-- Cette nuit est une expérience, pas une garantie de voir Fuji.
-- Réserver annulable si possible.
+Notes :
+- Cette etape est une experience, pas une garantie de voir Fuji.
+- Les deux nuits augmentent les chances, mais il faut reserver annulable si possible.
 
 ## Tampon
 
-Tampon conseillé :
+Tampon conseille :
 
 - Minimum : ¥100'000 pour 2.
 - Confort : ¥200'000 pour 2.
 
 Utilisation probable :
 
-- Taxis à cause de la chaleur ou pluie.
-- Hôtels plus chers.
+- Taxis a cause de la chaleur ou pluie.
+- Hotels plus chers.
 - Shopping.
-- Express Pass USJ plus élevé.
-- Restaurants non prévus.
-
+- Express Pass USJ plus eleve.
+- Restaurants non prevus.
