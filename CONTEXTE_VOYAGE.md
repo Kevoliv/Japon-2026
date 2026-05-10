@@ -21,7 +21,7 @@
 - Couple : Kev + sa copine.
 - Vols déjà payés, hors budget à planifier.
 - Budget cible initial hors vols : environ CHF 2'000-3'000 par personne, avec préférence pour payer moins si possible tout en profitant vraiment.
-- Budget réaliste actuel avec l'itinéraire complet : plutôt CHF 3'600-4'000 par personne, selon hôtels, USJ et shopping.
+- Budget actuel hors vols : environ CHF 2'850-3'800 par personne hors shopping, ou CHF 3'100-4'200 par personne avec shopping modéré. Prévoir un tampon séparé.
 
 ## Villes prévues
 
@@ -61,7 +61,6 @@
 
 ## Infos à confirmer
 
-- Hôtels exacts et prix.
 - Hôtel précis pour les deux nuits à Kawaguchiko.
 - Choix Kamakura ou Yokohama pour le 10 juillet, ou journée Tokyo plus calme.
 - Billets USJ + Express Pass.

@@ -4,12 +4,7 @@
 
 | Action | Priorite | Statut | Notes |
 |---|---:|---|---|
-| Rechercher hotels Tokyo debut | Haute | A faire | 04-11 juillet, objectif max ¥30'000/nuit |
-| Rechercher hotel Kawaguchiko annulable | Haute | A faire | 11-13 juillet, vue Fuji / onsen si possible, max ¥55'000-75'000/nuit |
-| Rechercher hotels Kyoto Gion Matsuri | Haute | A faire | 13-18 juillet, Shijo-Karasuma / Kawaramachi / Sanjo, max ¥35'000/nuit |
-| Rechercher hotels Osaka | Haute | A faire | 18-23 juillet, Namba/Shinsaibashi ou Umeda |
-| Rechercher hotels Hiroshima | Haute | A faire | 23-25 juillet, Hatchobori/Hondori ou gare |
-| Rechercher hotels Tokyo fin | Haute | A faire | 25-27 juillet, Ginza/Shimbashi ou Hamamatsucho/Daimon |
+| Reserver hotel / ryokan Kawaguchiko | Haute | A faire | 11-13 juillet, vue Fuji, bain prive, tattoo friendly ; cible CHF 600-1'000 / ¥120'000-200'000 |
 | Verifier disponibilite USJ 21 juillet | Haute | A faire | Studio Pass + Express Pass avec Nintendo/Donkey Kong |
 
 ## Moyenne priorite

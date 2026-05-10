@@ -18,13 +18,14 @@ Ce fichier est la source de verite des decisions actives. Une information n'est 
 | Garder Hiroshima / Miyajima du 23 au 25 juillet | Bloc dedie pour histoire + Miyajima | 2 nuits Hiroshima |
 | Utiliser Yamato / takkyubin pour les valises | Eviter de se balader avec les grosses valises | Envois Tokyo -> Kyoto, Kyoto/Osaka selon besoin, Osaka/Hiroshima/Tokyo selon hotels |
 | Matchs Portugal traites comme bonus | Ne pas laisser la Coupe du monde piloter le voyage | Les matchs peuvent seulement alleger certaines journees |
-| Budget realiste a rehausser avec 2 nuits Fuji | Deux nuits Fuji et 23 nuits d'hotel font monter le total | Viser plutot ¥1.55M-1.75M pour 2 hors vols, selon hotels et achats |
+| Budget realiste revise apres reservations hotels | Les hotels hors Fuji sont tres bien maitrises ; Fuji reste le gros arbitrage | Viser CHF 5'700-7'600 hors shopping, CHF 6'200-8'400 avec shopping modere ; tampon separe |
+| Reserver les hotels hors Fuji | Tokyo debut, Kyoto, Osaka, Hiroshima et Tokyo fin sont reserves pour CHF 1'692 / ¥338'400 au total | Fuji reste le seul bloc hotel a choisir |
 
 ## Decisions a prendre
 
 | Sujet | Options | Statut |
 |---|---|---|
-| Hotels | Selectionner shortlist et reserver selon les nouvelles dates | A faire |
+| Hotels hors Fuji | Reserves pour CHF 1'692 / ¥338'400 | Fait |
 | Kawaguchiko | Choisir hotel vue Fuji / onsen annulable pour 2 nuits | A faire |
 | 10 juillet | Tokyo calme, Kamakura ou Yokohama | A trancher |
 | Nara le 18 juillet | Yamato, consigne Kyoto, consigne Nara ou depot Osaka | A trancher |
